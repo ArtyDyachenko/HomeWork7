@@ -1,1 +1,85 @@
+body {
+	background: lightgrey;
+	text-align: center;
+}
 
+h3 {
+	font-size: 50px;
+}
+
+ul {
+	list-style: none;
+	margin-top: 150px;
+}
+
+li {
+	display: inline-block;
+}
+
+div {
+	width: 100px;
+	height: 100px;
+}
+
+.red {
+	color: red;
+}
+
+.orange {
+	color: orange;
+}
+
+.yellow {
+	color: yellow;
+}
+
+.green {
+	color: green;
+}
+
+.blue {
+	color: blue;
+}
+
+.indigo {
+	color: indigo;
+}
+
+.violet {
+	color: violet;
+}
+
+#red {
+	background: red;
+	border: 5px solid violet;
+}
+
+#orange {
+	background: orange;
+	border: 5px solid indigo;
+}
+
+#yellow {
+	background: yellow;
+	border: 5px solid blue;
+}
+
+#green {
+	background: green;
+	border: 5px solid green;
+}
+
+#blue {
+	background: blue;
+	border: 5px solid yellow;
+}
+
+#indigo {
+	background: indigo;
+	border: 5px solid orange;
+}
+
+#violet {
+	background: violet;
+	border: 5px solid red;
+}
